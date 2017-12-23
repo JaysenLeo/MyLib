@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Burt's Books – Book Detail</title>
+    <script src="http://cdn.static.runoob.com/libs/jquery/1.10.2/jquery.min.js"
+            type="text/javascript"></script>
+    <!--<script src="{{ static_url('scripts/inventory.js') }}"-->
+    <!--type="application/javascript"></script>-->
+</head>
+
+<body>
+<div>
+    <h1>Burt's Books</h1>
+
+    <hr/>
+    <p>
+    <h2>The Definitive Guide to the Internet</h2>
+    <em>Anonymous</em></p>
+</div>
+
+<img src="static/images/1111.jpg" alt="The Definitive Guide to the Internet"/>
+
+<hr/>
+
+<input type="hidden" id="session" value="{{ session }}"/>
+<div id="add-to-cart">
+    <p><span style="color: red;">Only <span id="count">{{ count }}</span>
+                left in stock! Order now!</span></p>
+    <p>$20.00 <input type="submit" value="Add to Cart" id="add-button"/></p>
+</div>
+<div id="remove-from-cart" style="display: none;">
+    <p><span style="color: green;">One copy is in your cart.</span></p>
+    <p><input type="submit" value="Remove from Cart" id="remove-button"/></p>
+</div>
+<script>
+    $(document).ready(function () {
+        document.session = $('#session').val();
+
+        setTimeout(requestInventory, 100);
+
+        $('#add-button').click(function (event) {
+            jQuery.ajax({
+                url: '//localhost:8000/cart',
+                type: 'POST',
+                data: {
+                    session: document.session,
+                    action: 'add'
+                },
+                dataType: 'json',
+                beforeSend: function (xhr, settings) {
+                    $(event.target).attr('disabled', 'disabled');
+                },
+                success: function (data, status, xhr) {
+                    $('#add-to-cart').hide();
+                    $('#remove-from-cart').show();
+                    $(event.target).removeAttr('disabled');
+                }
+            });
+        });
+
+        $('#remove-button').click(function (event) {
+            jQuery.ajax({
+                url: '//localhost:8000/cart',
+                type: 'POST',
+                data: {
+                    session: document.session,
+                    action: 'remove'
+                },
+                dataType: 'json',
+                beforeSend: function (xhr, settings) {
+                    $(event.target).attr('disabled', 'disabled');
+                },
+                success: function (data, status, xhr) {
+                    $('#remove-from-cart').hide();
+                    $('#add-to-cart').show();
+                    $(event.target).removeAttr('disabled');
+                }
+            });
+        });
+    });
+
+    function requestInventory() {
+        var host = 'ws://localhost:8000/cart/status';
+
+        var websocket = new WebSocket(host);
+
+        websocket.onopen = function (evt) {
+        };
+        websocket.onmessage = function (evt) {
+            $('#count').html($.parseJSON(evt.data)['inventoryCount']);
+        };
+        websocket.onerror = function (evt) {
+        };
+    }
+</script>
+</body>
+</html>
