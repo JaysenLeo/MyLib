@@ -10,8 +10,14 @@
 
 
 if __name__ == '__main__':
-    import PyBaiduYuyin as pby
-    tts = pby.TTS(app_key="xHC8HpQlEMrDRXIWA1xap2ZC", secret_key="5527742ed6ea120fbb4950a4a762adba")
-    tts.say("你好")
+    # import PyBaiduYuyin as pby
+    # tts = pby.TTS(app_key="xHC8HpQlEMrDRXIWA1xap2ZC", secret_key="5527742ed6ea120fbb4950a4a762adba")
+    # tts.say("你好")
+    import speech
+    while True:
+        phrase =speech.input()
+        speech.say("You said %s"%phrase)
+        if phrase =="turn off":
+            break
 
 
