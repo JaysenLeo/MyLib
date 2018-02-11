@@ -15,7 +15,7 @@ def exeTime(func):
         start = time.clock()
         result = func(x)
         end = time.clock()
-        print(func.__name__, "耗时：", end-start)
+        print("{0}  {1} {2}".format(func.__name__, '耗时',end-start))
         return result
     return wrapper
 
