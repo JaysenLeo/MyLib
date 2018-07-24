@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="216e6881-b381-409c-83ef-f452015513f9" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BakSome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogCurl/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogCurl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogCurl/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BlogCurl/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CronPy/CrontabPy.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CronPy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/.vscode/settings.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern/SimpleFactory.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern/Singleton.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern/享元模式.py" afterDir="false" />
@@ -23,14 +29,34 @@
       <change afterPath="$PROJECT_DIR$/DesignPattern/观察者模式.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern/责任链.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/DesignPattern/适配器模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/MachineLearningLibrary.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/AllElectronics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/AllElectronics.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/allElectronicInformationGainOri.dot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/allElectronicInformationGainOri.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MonitorDog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonitorDog/login_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonitorDog/login_ui.ui" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MonitorDog/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonitorDog/untitled.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python100/python_dict.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonSenior/_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/_context_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/_dict.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonSenior/_len.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/PythonSenior/_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPCMode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPCMode/client-rpc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RPCMode/server-rpc.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/WebBackgroundProcessing/crontab_copy.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/__init__.py" afterDir="false" />
@@ -277,14 +303,14 @@
       <change beforePath="$PROJECT_DIR$/DjangoDemo/EasyPay_Dev" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DjangoDemo/LoginDemo/.idea/LoginDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoDemo/LoginDemo/.idea/LoginDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoDemo/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/GoDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/GoDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BlogCurl/.idea/BlogCurl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlogCurl/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoDemo/.idea/libraries/Go_SDK.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GoDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlogCurl/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoDemo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoDemo/.vscode/symbols.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.vscode/symbols.json" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/.vscode/symbols.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GoDemo/Go1-HelloWorld.go" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TornadoPlus" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoPlus" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pycrontab.py" beforeDir="false" afterPath="$PROJECT_DIR$/pycrontab.py" afterDir="false" />
@@ -344,48 +370,7 @@
     <favorites_list name="MyLib" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="_slots.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonSenior/_slots.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/__builtin__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1752">
-              <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
-              <folding>
-                <element signature="e#7778#8069#0" expanded="true" />
-                <element signature="e#13685#13933#0" expanded="true" />
-                <element signature="e#13999#14108#0" expanded="true" />
-                <element signature="e#14185#14384#0" expanded="true" />
-                <element signature="e#14448#14828#0" expanded="true" />
-                <element signature="e#98774#98822#0" expanded="true" />
-                <element signature="e#98914#98980#0" expanded="true" />
-                <element signature="e#99250#99254#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_dict.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonSenior/_dict.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-              <folding>
-                <element signature="e#371#430#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -454,8 +439,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-16" />
-    <option name="y" value="11" />
+    <option name="x" value="97" />
+    <option name="y" value="69" />
     <option name="width" value="1561" />
     <option name="height" value="955" />
   </component>
@@ -882,8 +867,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="11" width="1561" height="955" extended-state="0" />
-    <editor active="true" />
+    <frame x="97" y="69" width="1561" height="955" extended-state="0" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -893,7 +877,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32990867" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.41210046" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.23143813" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.24147157" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32972386" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -1281,16 +1265,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSenior/_slots.py">
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_dict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state>
+          <caret selection-end-column="23" />
+          <folding>
+            <element signature="e#24#50#1" expanded="true" />
+            <element signature="e#371#430#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1752">
+        <state relative-caret-position="24">
           <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
           <folding>
             <element signature="e#7778#8069#0" expanded="true" />
@@ -1305,13 +1293,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonSenior/_dict.py">
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_slots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding>
-            <element signature="e#371#430#0" expanded="true" />
-          </folding>
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
