@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="216e6881-b381-409c-83ef-f452015513f9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BakSome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CronPy/CrontabPy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CronPy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/SimpleFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/Singleton.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/享元模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/代理模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/共享模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/外观模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/工厂模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/建造者模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/抽象工厂.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/桥接多维度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/桥接模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/模板模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/策略模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/组合模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/观察者模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/责任链.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPattern/适配器模式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonitorDog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MonitorDog/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/_call.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/_len.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonSenior/_slots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebBackgroundProcessing/crontab_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/application.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/conf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/conf/conf.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/conf/debug.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/conf/pre.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/Auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/Error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/Role.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/Tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/AuthDAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/BaseDAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/RoleDAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/ToolDAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/UserDAO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/dbinfo/dbinfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Decorate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/G.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/MyRabbitmq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/MyRedis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/RPCClient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Route.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/library/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/AuthDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/BaseDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/RoleAuthsDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/RoleDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/UserDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/UserRoleDO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/mapper/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/AuthService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/BaseService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/RoleService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/ToolService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/UserService.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/service/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/WechatIMG139.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/WechatIMG140.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/WechatIMG141.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/WechatIMG142.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/WechatIMG143.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xiaowan-pyadmin-2c5d7bb/snapshot/logincontroller.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/admin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/admin/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/admin/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/auth/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/auth/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/main/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/main/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/main/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/main/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/css/prism.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/commentReply.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/floatButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/jquery-2.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/js/tinymce_setup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/changelog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/extentsion_self/codesimple_extentsion/prism.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/jquery.tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/langs/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/langs/zh_CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/advlist/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/anchor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/autolink/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/autoresize/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/autosave/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/bbcode/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/charmap/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/code/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/codesample/css/prism.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/codesample/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/colorpicker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/contextmenu/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/directionality/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-cool.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-cry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-frown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-wink.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/img/smiley-yell.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/emoticons/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/example/dialog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/example/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/example_dependency/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/fullpage/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/fullscreen/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/hr/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/image/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/imagetools/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/importcss/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/insertdatetime/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/layer/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/legacyoutput/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/link/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/lists/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/media/moxieplayer.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/media/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/nonbreaking/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/noneditable/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/pagebreak/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/paste/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/preview/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/print/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/save/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/searchreplace/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/spellchecker/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/tabfocus/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/table/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/template/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/textcolor/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/textpattern/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/visualblocks/css/visualblocks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/visualblocks/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/visualchars/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/plugins/wordcount/plugin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/img/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/img/object.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/img/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/skin.ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/lightgray/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/Variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/content.inline.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/content.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce-small.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce-small.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce-small.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce-small.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/fonts/tinymce.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/img/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/img/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/img/object.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/img/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/skin.ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/skin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/skins/myskin/skin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/themes/modern/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/static/tinymce/js/tinymce/tinymce.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/_article_comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/_article_entry.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/_article_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/_macros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/_submit_comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/admin_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/admin_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/blog_plugin_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/custom_blog_info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/custom_blog_plugin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/help_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/manage_articleTypes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/manage_articleTypes_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/manage_articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/manage_comments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/admin/submit_articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/article_detials.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/auth/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/migrations/versions/051691f120e6_fit_to_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/requirements/common.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open/xpleaf-Blog_mini-652507e/requirements/dev.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPattern/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPattern/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/DownloadMan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/DownloadMan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoDemo/DownloadMan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoDemo/EasyPay_Dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DjangoDemo/LoginDemo/.idea/LoginDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DjangoDemo/LoginDemo/.idea/LoginDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/GoDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/libraries/Go_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/.vscode/symbols.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoDemo/Go1-HelloWorld.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TornadoPlus" beforeDir="false" afterPath="$PROJECT_DIR$/TornadoPlus" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pycrontab.py" beforeDir="false" afterPath="$PROJECT_DIR$/pycrontab.py" afterDir="false" />
+    </list>
+    <ignored path="MyLib.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MyLib$BakSome.coverage" NAME="BakSome Coverage Results" MODIFIED="1523949762830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLib$HostInfoGet.coverage" NAME="HostInfoGet Coverage Results" MODIFIED="1508910319760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SystemInfoCollection/CurrencyGet" />
+    <SUITE FILE_PATH="coverage/MyLib$untitled.coverage" NAME="untitled Coverage Results" MODIFIED="1523952243322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MonitorDog" />
+    <SUITE FILE_PATH="coverage/MyLib$main.coverage" NAME="main Coverage Results" MODIFIED="1530809702540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BlogCurl" />
+    <SUITE FILE_PATH="coverage/MyLib$python_dict.coverage" NAME="python_dict Coverage Results" MODIFIED="1528292853389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python100" />
+    <SUITE FILE_PATH="coverage/MyLib$ChaoticSearchAlgorithm.coverage" NAME="ChaoticSearchAlgorithm Coverage Results" MODIFIED="1508895684573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SearchAlgorithm" />
+    <SUITE FILE_PATH="coverage/MyLib$pycrontab.coverage" NAME="pycrontab Coverage Results" MODIFIED="1525241964867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MyLib$crontab_copy.coverage" NAME="crontab_copy Coverage Results" MODIFIED="1525254846065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/WebBackgroundProcessing" />
+    <SUITE FILE_PATH="coverage/MyLib$HelloQt5.coverage" NAME="HelloQt5 Coverage Results" MODIFIED="1508910323958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt/Demo/demo_001" />
+    <SUITE FILE_PATH="coverage/MyLib$_len__1_.coverage" NAME="_len (1) Coverage Results" MODIFIED="1530792534582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$_call.coverage" NAME="_call Coverage Results" MODIFIED="1530793783496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$SimpleFactory.coverage" NAME="SimpleFactory Coverage Results" MODIFIED="1522672434766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesignPattern" />
+    <SUITE FILE_PATH="coverage/MyLib$.coverage" NAME="共享模式 Coverage Results" MODIFIED="1523965905273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DesignPattern" />
+    <SUITE FILE_PATH="coverage/MyLib$InsertionSort.coverage" NAME="InsertionSort Coverage Results" MODIFIED="1509029740401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SortMode" />
+    <SUITE FILE_PATH="coverage/MyLib$Doctests_in__call.coverage" NAME="Doctests in _call Coverage Results" MODIFIED="1530792596098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$_dict.coverage" NAME="_dict Coverage Results" MODIFIED="1531225645207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$MysqlConnectPool.coverage" NAME="MysqlConnectPool Coverage Results" MODIFIED="1530807904702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MysqlDemo" />
+    <SUITE FILE_PATH="coverage/MyLib$login_ui.coverage" NAME="login_ui Coverage Results" MODIFIED="1523955068455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MonitorDog" />
+    <SUITE FILE_PATH="coverage/MyLib$_len.coverage" NAME="_len Coverage Results" MODIFIED="1530706200538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$_context_manager.coverage" NAME="_context_manager Coverage Results" MODIFIED="1530809274672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$_slots.coverage" NAME="_slots Coverage Results" MODIFIED="1530810121272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSenior" />
+    <SUITE FILE_PATH="coverage/MyLib$HelloQt5_002.coverage" NAME="HelloQt5_002 Coverage Results" MODIFIED="1508910457723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQt/Demo/demo_001" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyLib" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_slots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonSenior/_slots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__builtin__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/__builtin__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1752">
+              <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
+              <folding>
+                <element signature="e#7778#8069#0" expanded="true" />
+                <element signature="e#13685#13933#0" expanded="true" />
+                <element signature="e#13999#14108#0" expanded="true" />
+                <element signature="e#14185#14384#0" expanded="true" />
+                <element signature="e#14448#14828#0" expanded="true" />
+                <element signature="e#98774#98822#0" expanded="true" />
+                <element signature="e#98914#98980#0" expanded="true" />
+                <element signature="e#99250#99254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_dict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonSenior/_dict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+              <folding>
+                <element signature="e#371#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printInfo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print_info</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SearchAlgorithm/ChaoticSearchAlgorithm.py" />
+        <option value="$PROJECT_DIR$/SystemInfoCollection/CurrencyGet/HostInfoGet.py" />
+        <option value="$PROJECT_DIR$/MailBoy/MailMode.py" />
+        <option value="$PROJECT_DIR$/PyQt/Demo/demo_001/HelloQt5.py" />
+        <option value="$PROJECT_DIR$/PyQt/Demo/demo_001/HelloQt5_002.py" />
+        <option value="$PROJECT_DIR$/SortMode/InsertionSort.py" />
+        <option value="$PROJECT_DIR$/UpdatePackageTool.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/__init__.py" />
+        <option value="$PROJECT_DIR$/MonitorDog/__init__.py" />
+        <option value="$PROJECT_DIR$/MonitorDog/main.py" />
+        <option value="$PROJECT_DIR$/MonitorDog/untitled.py" />
+        <option value="$PROJECT_DIR$/MonitorDog/login_ui.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/共享模式.py" />
+        <option value="$PROJECT_DIR$/pycrontab.py" />
+        <option value="$PROJECT_DIR$/BakSome.py" />
+        <option value="$PROJECT_DIR$/WebBackgroundProcessing/crontab_copy.py" />
+        <option value="$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/main.py" />
+        <option value="$PROJECT_DIR$/Python100/python_dict.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/工厂模式.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/SimpleFactory.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/策略模式.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/模板模式.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/建造者模式.py" />
+        <option value="$PROJECT_DIR$/DesignPattern/桥接模式.py" />
+        <option value="$PROJECT_DIR$/PythonSenior/_len.py" />
+        <option value="$PROJECT_DIR$/PythonSenior/_call.py" />
+        <option value="$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py" />
+        <option value="$PROJECT_DIR$/BlogCurl/main.py" />
+        <option value="$PROJECT_DIR$/PythonSenior/_context_manager.py" />
+        <option value="$PROJECT_DIR$/PythonSenior/_slots.py" />
+        <option value="$PROJECT_DIR$/PythonSenior/_dict.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-16" />
+    <option name="y" value="11" />
+    <option name="width" value="1561" />
+    <option name="height" value="955" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLib" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSenior" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyLib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLib" type="462c0819:PsiDirectoryNode" />
+              <item name="TornadoPlus" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BlogCurl" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebApp\MyLib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python._dict">
+    <configuration name="MysqlConnectPool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MysqlDemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_context_manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSenior" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSenior/_context_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSenior" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSenior/_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="_slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSenior" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSenior/_slots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python36\python3.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlogCurl" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BlogCurl/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pycrontab" type="PythonConfigurationType" factoryName="Python">
+      <module name="MyLib" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pycrontab.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MyLib" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pycrontab" />
+      <item itemvalue="Python._context_manager" />
+      <item itemvalue="Python.MysqlConnectPool" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python._slots" />
+      <item itemvalue="Python._dict" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python._dict" />
+        <item itemvalue="Python._slots" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python._context_manager" />
+        <item itemvalue="Python.MysqlConnectPool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="216e6881-b381-409c-83ef-f452015513f9" name="Default" comment="" />
+      <created>1506651944594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506651944594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in__call - 2018.07.05 at 20h 09m 02s.xml">
+      <configuration name="Doctests in _call" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in__call - 2018.07.05 at 20h 09m 26s.xml">
+      <configuration name="Doctests in _call" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in__call - 2018.07.05 at 20h 09m 56s.xml">
+      <configuration name="Doctests in _call" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-16" y="11" width="1561" height="955" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32829374" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32990867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41210046" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49802372" visible="true" weight="0.23143813" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32972386" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5019763" side_tool="true" weight="0.18733154" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37899545" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="GitLabIntegration" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1117010748/PyQt5/QtCore/QEvent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonitorDog/login_ui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1117010748/PyQt5/QtWidgets/QMainWindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpdatePackageTool.py" />
+    <entry file="file://$PROJECT_DIR$/MonitorDog/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="492" column="8" selection-start-line="492" selection-start-column="8" selection-end-line="492" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="130" column="26" lean-forward="true" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebBackgroundProcessing/crontab_copy.py20180502173700" />
+    <entry file="file://$PROJECT_DIR$/WebBackgroundProcessing/crontab_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearningLibrary/DecisionTree/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python100/python_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/策略模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/外观模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/适配器模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/工厂模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/建造者模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/模板模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/桥接模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/代理模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/观察者模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="58" column="15" selection-start-line="58" selection-start-column="15" selection-end-line="58" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python100/python1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RPCMode/server-rpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pycrontab.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/SimpleFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/Singleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/享元模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DesignPattern/共享模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BakSome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_len.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2/typing.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_call.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/MySQLdb/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/MySQLdb/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="242" column="42" selection-start-line="242" selection-start-column="42" selection-end-line="242" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/MySQLdb/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1302">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/_mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2271">
+          <caret line="166" column="33" lean-forward="true" selection-start-line="166" selection-start-column="33" selection-end-line="166" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgorithmMode/InsertionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlogCurl/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MysqlDemo/MysqlConnectPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+          <folding>
+            <element signature="e#85#108#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-48">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_context_manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1733">
+          <caret line="102" column="4" selection-start-line="102" selection-start-column="4" selection-end-line="102" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/__future__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1584">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/tornado/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9360" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/tornado/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3403" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/tornado/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13003" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TornadoPlus/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1494736245/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1752">
+          <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
+          <folding>
+            <element signature="e#7778#8069#0" expanded="true" />
+            <element signature="e#13685#13933#0" expanded="true" />
+            <element signature="e#13999#14108#0" expanded="true" />
+            <element signature="e#14185#14384#0" expanded="true" />
+            <element signature="e#14448#14828#0" expanded="true" />
+            <element signature="e#98774#98822#0" expanded="true" />
+            <element signature="e#98914#98980#0" expanded="true" />
+            <element signature="e#99250#99254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSenior/_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+          <folding>
+            <element signature="e#371#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
