@@ -1,0 +1,411 @@
+POST http://localhost:8001/logging
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"thread_name": "rsj217", "service_name": "123"}
+
+<> 2018-07-18T054557.400.txt
+
+###
+
+POST http://localhost:8001/logging
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"thread_name": "rsj217", "service_name": "123"}
+
+<> 2018-07-18T054334.200.json
+
+###
+
+POST http://localhost:8001/logging
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"threadname": "rsj217", "servicename": "123"}
+
+<> 2018-07-18T052950.200.json
+
+###
+
+POST http://localhost:8001/logging?"threadname"="Lee"&"servicename"="q"
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052916.400.txt
+
+###
+
+POST http://localhost:8001/logging?"threadname"="Lee"&"servicename"="q"
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052915.400.txt
+
+###
+
+POST http://localhost:8001/logging?"threadname"="Lee"&"servicename"="q"
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052905.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadname=Lee&servicename=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052816.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052653.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"thread_name": "rsj217", "service_name": "123"}
+
+<> 2018-07-18T052614.400.txt
+
+###
+
+POST http://localhost:8001/logging?service_name=Lee&thread_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"thread_name": "rsj217", "service_name": "123"}
+
+<> 2018-07-18T052455.400.txt
+
+###
+
+POST http://localhost:8001/logging?eervice_name=Lee&thread_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052418.400.txt
+
+###
+
+POST http://localhost:8001/logging?service_name=Lee&thread_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052400.400.txt
+
+###
+
+POST http://localhost:8001/logging?servicename=Lee&threadname=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052313.400.txt
+
+###
+
+POST http://localhost:8001/logging?ServiceName=Lee&ThreadName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T052130.400.txt
+
+###
+
+POST http://localhost:8001/logging?ServiceName=Lee&ThreadName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T051653.400.txt
+
+###
+
+POST http://localhost:8001/logging?ServiceName=Lee&ThreadName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T051527.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T051229.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T051152.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T050919.200.json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T050735.200.json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{"thread_name": "rsj217", "service_name": "123"}
+
+<> 2018-07-18T050701.200.json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T050535.200.json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-18T050353.200.json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-18T050201.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-18T045951.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-18T045838.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/x-www-form-urlencoded
+
+<> 2018-07-18T045716.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-18T045546.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T045516.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T045354.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T045120.400.txt
+
+###
+
+POST http://localhost:8001/logging?thread_name=Lee&service_name=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T045004.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044800.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044758.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044757.400.txt
+
+###
+
+POST http://localhost:8001/logging?ThreadName=Lee&ServiceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044601.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044547.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T044536.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T043950.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=q
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T043910.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=123
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+<> 2018-07-18T043802.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee&serviceName=123
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-18T043646.400.txt
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-18T043251.200.json
+
+###
+
+POST http://localhost:8001/logging?threadName=Lee
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-18T043001.200.json
+
+###
+

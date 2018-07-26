@@ -1,0 +1,27 @@
+```
+Go语言的标示符（变量名，函数名）是一个非空的字母或数字串，其中第一个字符必须是字母，该字符也不能是关键字的名字。Go语言一共有25个关键字，如下：
+
+break        default      func         interface    select
+case         defer        go           map          struct
+chan         else         goto         package      switch
+const        fallthrough  if           range        type
+continue     for          import       return       var
+Go语言同样预定义了许多标示符，可以很方便的使用，如下：
+
+类型：
+bool byte complex64 complex128 error float32 float64
+int int8 int16 int32 int64 rune string
+uint uint8 uint16 uint32 uint64 uintptr
+常量
+true false iota
+零值
+nil
+函数
+append cap close complex copy delete imag len
+make new panic print println real recover
+空标示符"_"是一个占位符，它用于在赋值操作的时候将某个值赋值给空标示符号，从而达到丢弃该值的目的。空标示符不是一个新的变量，因此将它用于:=操作符号的时候，必须同时为至少另一个值赋值。下面有几个例子：
+
+count, err = fmt.Println(x)     // 获取打印的字节数以及相应的error值
+count, _ = fmt.Println(x)       // 获取打印的字节数，并且丢弃error值
+
+```
