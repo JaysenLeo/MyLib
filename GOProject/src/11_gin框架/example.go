@@ -8,10 +8,10 @@ import (
 type LoggingParams struct {
 	ThreadName string `json:"thread_name" binding:"required"`
 	ServiceName string `json:"service_name" binding:"required"`
-	HandleName string `json:"handle_name" binding:"required"`
-	MethodName string `json:"handle_name" binding:"required"`
-	FunctionName string `json:"handle_name" binding:"required"`
-	ClassName string `json:"class_name" binding:"required"`
+	// HandleName string `json:"handle_name" binding:"required"`
+	// MethodName string `json:"handle_name" binding:"required"`
+	// FunctionName string `json:"handle_name" binding:"required"`
+	// ClassName string `json:"class_name" binding:"required"`
 }
 
 func main() {
